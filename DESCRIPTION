@@ -18,3 +18,5 @@ Imports:
     shinyalert,
     shinydashboard,
     stringr
+URL: https://github.com/jaylinlowe/auxRCT
+BugReports: https://github.com/jaylinlowe/auxRCT/issues
