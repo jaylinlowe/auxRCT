@@ -3,7 +3,7 @@ Title: Sample Size Calculations for RCTs with Auxiliary Data
 Version: 0.0.0.9000
 Authors@R: 
     person("Jaylin", "Lowe", , "jaylincl@umich.edu", role = c("aut", "cre"))
-Description: Functions and a shiny app to help users choose a sample size for RCTs that will be analyzed using auxiliary data for covariate adjustment.
+Description: Shiny app and functions for choosing a sample size for RCTs analyzed with auxiliary data
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
